@@ -16,44 +16,27 @@ I'm a software developer passionate about building scalable web applications and
 
 ### Languages
 
-* JavaScript
-* Python
-* SQL
+* JavaScript  Python sql java c
 
 ### Frontend
 
-* React.js
-* Tailwind CSS
-* HTML5
-* CSS3
+* React.js Tailwind CSS HTML5 CSS3 
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
+* Node.js Express.js REST APIs
 
 ### Database
 
-* MongoDB
-* MySQL
+* MongoDB MYSQL
 
 ### Tools & Platforms
 
-* Git
-* GitHub
-* Postman
-* VS Code
-* Google Colab
+* Git GitHub Postman VS Code Google Colab
 
 ### AI & Machine Learning
 
-* NLP
-* Tokenization
-* Transformers
-* Attention Mechanisms
-* BERT
-* GPT Fundamentals
+* NLP Tokenization  Transformers Attention Mechanisms BERT GPT Fundamentals
 
 ## 📌 Featured Projects
 
