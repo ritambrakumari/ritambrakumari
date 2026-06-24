@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ritambra Kumari
 
-### Full Stack Developer | MERN Stack Enthusiast | AI & NLP Learner
+### Full Stack Developer | MERN Stack Developer | AI & NLP Learner
 
 I'm a software developer passionate about building scalable web applications and exploring Artificial Intelligence. Currently working with the MERN stack while learning advanced concepts in NLP, Transformers, Attention Mechanisms, and Large Language Models.
 
